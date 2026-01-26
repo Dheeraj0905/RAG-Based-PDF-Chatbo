@@ -165,7 +165,6 @@ transformers_cache/
 *.swo
 *~
 
-# OS specific files
 .DS_Store
 Thumbs.db
 desktop.ini
