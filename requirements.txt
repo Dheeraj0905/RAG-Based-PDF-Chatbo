@@ -1,6 +1,6 @@
-langchain-community
-langchain-openai
-faiss-cpu
-tiktoken
-python-dotenv
 pypdf
+faiss-cpu
+sentence-transformers
+streamlit
+python-dotenv
+requests
