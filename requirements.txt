@@ -4,3 +4,5 @@ sentence-transformers
 streamlit
 python-dotenv
 requests
+pdfplumber
+PyMuPDF
